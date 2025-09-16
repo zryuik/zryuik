@@ -1,19 +1,18 @@
 ## Hi there my name is Yure 👋
 
-<!--
-**zryuik/zryuik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Hi there, I'm Yure 👋
+
+- 🔭 I’m currently focused on my **ADS (Systems Analysis and Development)** degree.
+- 🌱 I’m currently learning **HTML, CSS, JavaScript**, and exploring the basics of **cybersecurity**.
+- 💻 I've completed a **Python 3** course with Professor Gustavo Guanabara.
+- 👯 I'm open to collaborating on web development or cybersecurity projects.
+
+
+
+
 
 ## 🛠️ Tools & Technologies 👨‍💻
 
