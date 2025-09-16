@@ -1,8 +1,3 @@
-## Hi there my name is Yure 👋
-
-
-
-
 ### Hi there, I'm Yure 👋
 
 - 🔭 I’m currently focused on my **ADS (Systems Analysis and Development)** degree.
