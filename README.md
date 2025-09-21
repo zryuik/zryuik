@@ -1,6 +1,6 @@
 ### Hi there, I'm Yure 👋
 
-- 🔭 I’m currently focused on my **ADS (Systems Analysis and Development)** degree.
+- 🔭 I’m currently focused on my **ADS (Systems Analysis and Development)** degree..
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**, and exploring the basics of **cybersecurity**.
 - 💻 I've completed a **Python 3** course with Professor Gustavo Guanabara.
 - 👯 I'm open to collaborating on web development or cybersecurity projects.
