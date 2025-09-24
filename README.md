@@ -18,11 +18,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"/>
 </div>
 
-## My Stats
+### My Stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=zryuik&show_icons=true&theme=monokai&hide_border=true&count_private=true&cache_seconds=3600" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zryuik&layout=compact&theme=monokai&count_private=true&cache_seconds=3600" width="400"/> |
-|:---:|:---:|
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zryuik&show_icons=true&theme=radical" alt="GitHub Stats" width="321" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zryuik&layout=compact&theme=radical" alt="Linguagens mais usadas" width="350" />
+</p>
         
 </a>
 <picture>
