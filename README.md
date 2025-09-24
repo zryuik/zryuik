@@ -20,7 +20,7 @@
 
 ## My Stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=zryuik&show_icons=true&theme=monokai&hide_border=true&count_private=true" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zryuik&layout=compact&theme=monokai&count_private=true&cache_seconds=1" width="400"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=zryuik&show_icons=true&theme=monokai&hide_border=true&count_private=true&cache_seconds=3600" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zryuik&layout=compact&theme=monokai&count_private=true&cache_seconds=3600" width="400"/> |
 |:---:|:---:|
 
         
