@@ -5,7 +5,7 @@
 - 💻 I've completed a **Python 3** course with Professor Gustavo Guanabara.
 - 👯 I'm open to collaborating on web development or cybersecurity projects.
 
-## 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
