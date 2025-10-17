@@ -1,9 +1,12 @@
 ### Hi there, I'm Yure 👋
 ###
-> 🔭 Pursuing a degree in **Systems Analysis and Development (ADS)**, focused on **backend development**.
-> 💻 Completed the **Python 3 – Worlds 1, 2, and 3** courses by *Curso em Vídeo*.
-> 🌱 Expanding knowledge in **HTML, CSS, and JavaScript** to improve full-stack understanding.
-> 🚀 Passionate about building efficient, scalable backend systems and exploring automation.
+
+
+🎓 Pursuing a degree in **Systems Analysis and Development (ADS)**, focused on **backend development**.  
+💻 Completed the **Python 3 – Worlds 1, 2, and 3** courses by *Curso em Vídeo* (Gustavo Guanabara).  
+🌱 Expanding knowledge in **HTML, CSS, and JavaScript** to improve full-stack understanding.  
+🚀 Passionate about building efficient, scalable backend systems and exploring automation.  
+
 
 ### 🛠️ Tecnologias e Ferramentas
 ###
