@@ -8,7 +8,7 @@
 🚀 Passionate about building efficient, scalable backend systems and exploring automation.  
 
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tools
 ###
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"/>
 </div>
 
-### My Stats
+### 🐱‍💻 My Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zryuik&show_icons=true&theme=radical" alt="GitHub Stats" width="390" />
