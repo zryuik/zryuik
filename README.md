@@ -24,11 +24,14 @@
 ### 🐱‍💻 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zryuik&show_icons=true&theme=radical" alt="GitHub Stats" width="390" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zryuik&layout=compact&theme=radical" alt="Linguagens mais usadas" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zryuik&show_icons=true&theme=radical" width="390" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zryuik&layout=compact&theme=radical" width="350" alt="Most Used Languages"/>
 </p>
+
         
 </a>
+
+<!-- Snake animation -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zryuik/zryuik/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zryuik/zryuik/output/github-contribution-grid-snake.svg">
