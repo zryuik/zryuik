@@ -1,4 +1,4 @@
-### Hi there, I'm Yure 👋
+### Hi there, I'm Yur 👋
 ###
 
 
