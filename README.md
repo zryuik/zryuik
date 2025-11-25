@@ -1,5 +1,5 @@
 ### Hi there, I'm Yure 👋
-#
+##
 
 🎓 Pursuing a degree in **Systems Analysis and Development (ADS)**, focused on **backend development**.  
 💻 Completed the **Python 3 – Worlds 1, 2, and 3** courses by *Curso em Vídeo*.  
